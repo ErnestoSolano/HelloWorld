@@ -1,0 +1,14 @@
+ El volumen de la unidad C es OS
+ El n£mero de serie del volumen es: F2D1-3585
+
+ Directorio de C:\Users\Alumno\Desktop\Java Project
+
+10/01/2018  15:36    <DIR>          .
+10/01/2018  15:36    <DIR>          ..
+10/01/2018  15:36                 0 prueba.txt
+21/12/2017  18:40               493 pruebaJenkins.class
+08/01/2018  17:55               167 pruebaJenkins.java
+08/01/2018  17:56               169 pruebaJenkins2.java
+10/01/2018  15:31               535 readme.txt
+               5 archivos          1.364 bytes
+               2 dirs  18.590.081.024 bytes libres
